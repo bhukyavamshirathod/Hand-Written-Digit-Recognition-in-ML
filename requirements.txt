@@ -1,7 +1,6 @@
 numpy
 matplotlib
-keras
-runipy
+tensorflow
 opencv-python-headless
 streamlit
 streamlit_drawable_canvas
