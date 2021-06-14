@@ -7,7 +7,7 @@ from streamlit_drawable_canvas import st_canvas
 
 MODEL_DIR = os.path.join(os.path.dirname(__file__), 'model')
 if not os.path.isdir(MODEL_DIR):
-    os.system('runipy train.ipynb')
+    os.system('runipy Digit_Recognition.ipynb')
 
 model = load_model('model')
 # st.markdown('<style>body{color: White; background-color: DarkSlateGrey}</style>', unsafe_allow_html=True)
