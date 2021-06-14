@@ -3,5 +3,6 @@ matplotlib
 keras
 runipy
 opencv-python
+python3-opencv
 streamlit
 streamlit_drawable_canvas
