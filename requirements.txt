@@ -1,6 +1,6 @@
 numpy
 matplotlib
-tensorflow.keras
+tensorflow
 runipy
 opencv-python
 streamlit
