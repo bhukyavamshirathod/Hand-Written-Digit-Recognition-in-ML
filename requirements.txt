@@ -2,6 +2,6 @@ numpy
 matplotlib
 keras
 runipy
-python-opencv
+opencv-python3
 streamlit
 streamlit_drawable_canvas
