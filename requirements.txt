@@ -3,6 +3,5 @@ matplotlib
 keras
 runipy
 opencv-python-headless
-libgl1-mesa-glx
 streamlit
 streamlit_drawable_canvas
